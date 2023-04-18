@@ -1,4 +1,4 @@
-package Homework01;
+package Homework_02;
 
 /* Create a 2D array (shorter way) in which first array will consist of 4 names
 and second array will contain grades. Then your program should print name of the

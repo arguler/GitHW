@@ -10,7 +10,7 @@ public class GroupHW_10 {
         String asil=null;
         int counter=0;
         for (int i = 0; i <dizi.length; i++) {
-            if (gecici == dizi[i]) {
+            if (gecici.equals(dizi[i])) {
                 asil = gecici;
                 counter++;
             }

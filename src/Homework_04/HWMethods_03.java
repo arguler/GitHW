@@ -13,9 +13,8 @@ public class HWMethods_03 {
         System.out.println("Enter a number if it is prime or not?");
         number = oku.nextInt();
         for (int i = 2; i < number; i++) {
-            if (number == 2) //if number is two it is prime
-            {
-            } else if (number % i == 0) //if number divided by i is zero it's not prime
+            if (number == 2) { //if number is two it is prime
+            }   else if (number % i == 0) //if number divided by i is zero it's not prime
             {
                 counter++;
             }

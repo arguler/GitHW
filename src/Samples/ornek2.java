@@ -1,3 +1,5 @@
+package Samples;
+
 import java.util.Scanner;
 
 class ornek2 {

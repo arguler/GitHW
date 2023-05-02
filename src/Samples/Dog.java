@@ -1,3 +1,5 @@
+package Samples;
+
 public class Dog {
     String name;
     String bark;

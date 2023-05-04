@@ -5,12 +5,14 @@ public class Dog {
     String bark;
     String run;
     String play;
+
     Dog(String n, String b, String r, String p) {
         this.name = n;
         this.bark = b;
         this.run = r;
         this.play = p;
     }
+
     void whatcan() {
         System.out.println(this.name + " can " + this.bark);
         System.out.println(this.name + " can " + this.run);

@@ -6,7 +6,6 @@ Create 3 Object of the class and print value of the count variable;
  */
 public class repl_126{
     static int objectCount = 0;
-
     {
         objectCount += 1;
     }

@@ -1,6 +1,6 @@
 package Replit;
 
-public class replit_146_Employee {
+public class repl_146_Employee {
     String name, lastname, startDate;
     int employeeId, salary;
 

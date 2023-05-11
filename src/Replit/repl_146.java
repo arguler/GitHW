@@ -14,10 +14,10 @@ Joe Smith 12345 01/01/1970 35000
  */
 public class repl_146 {
     public static void main(String[] args) {
-        replit_146_Employee obj = new replit_146_Employee();
+        repl_146_Employee obj = new repl_146_Employee();
         obj.sendno();
 
-        replit_146_Employee obj1 = new replit_146_Employee();
+        repl_146_Employee obj1 = new repl_146_Employee();
         obj1.sendall("joe","Smith",12345, "01/01/1970", 35000);
         obj1.sendno();
     }

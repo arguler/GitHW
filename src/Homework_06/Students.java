@@ -17,7 +17,5 @@ public class Students {
         this.grade3 = grade3;
         System.out.println(this.name+"'s average grade is "+ (this.grade1 +
                 this.grade2 + this.grade3) / 3);
-
     }
-
 }

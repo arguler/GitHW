@@ -5,14 +5,11 @@ and calculatePerimiter. Create 2 classes Circle & Square that
 implements functionality defined in the Shape Interface. Test your
 code.
  */
-
-
 public interface hw_06 {
     void calculateArea();
 
     void calculatePerimeter();
 }
-
 class Circle implements hw_06 {
     static double pi=3.14149;
     int radius=5;
